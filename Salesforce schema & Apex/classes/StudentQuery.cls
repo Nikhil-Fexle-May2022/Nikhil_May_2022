@@ -5,6 +5,7 @@ public class StudentQuery {
                                         FROM Student__c order by createdDate LIMIT 5];
         	for(Student__c teacher: studentList){
             	System.debug('Check data ::: '+teacher);
+                // 
     }
   }
 }
