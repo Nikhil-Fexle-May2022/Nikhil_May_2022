@@ -9,6 +9,8 @@
         <members>HelloWorldTestClass</members>
         <members>LeftTrianglePascalPattern</members>
         <members>MyHelloWorld</members>
+		<members>PracticeDataTypesAndMethods</members>
+        <members>StudentRecord</members>
         <name>ApexClass</name>
     </types>
 	<types>
@@ -70,6 +72,14 @@
         <members>Student__c.Registrar_Layout</members>
         <members>Student__c.Teacher_Layout</members>
         <name>RecordType</name>
+    </types>
+	<types>
+        <members>*</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Profile</name>
     </types>
     <version>53.0</version>
 </Package>
