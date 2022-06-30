@@ -12,6 +12,9 @@
 		<members>PracticeDataTypesAndMethods</members>
         <members>StudentRecord</members>
 		<members>ExpressionsAndOperators</members>
+		<members>ConditionalLoopsAndClasses</members>
+        <members>Example</members>
+        <members>OverridingInApex</members>
         <name>ApexClass</name>
     </types>
 	<types>
