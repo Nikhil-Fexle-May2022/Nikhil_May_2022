@@ -22,6 +22,9 @@
 	<members>CountryStateAndDistrict</members>
         <members>InsertRecord</members>
 	<members>CountryInformation</members>
+		<members>CountryInformation</members>
+	<members>CountryStateAndDistrict</members>
+        <members>InsertRecord</members>
         <name>ApexClass</name>
     </types>
 	<types>
