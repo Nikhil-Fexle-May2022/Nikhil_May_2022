@@ -19,6 +19,7 @@
         <members>InstanceOfKeyword</members>
         <members>SuperKeyword</members>
         <members>ThisKeyword</members>
+		<members>CountryInformation</members>
         <name>ApexClass</name>
     </types>
 	<types>
