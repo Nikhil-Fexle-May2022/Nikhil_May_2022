@@ -21,6 +21,7 @@
         <members>ThisKeyword</members>
 	<members>CountryStateAndDistrict</members>
         <members>InsertRecord</members>
+	<members>CountryInformation</members>
         <name>ApexClass</name>
     </types>
 	<types>
