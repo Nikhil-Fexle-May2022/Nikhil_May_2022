@@ -3,28 +3,31 @@
     <types>
         <members>StudentQuery</members>
         <members>Teacher</members>
-	<members>DreamWorld</members>
-	<members>HelloWorld</members>
-	<members>DownTrianglePattern</members>
+		<members>DreamWorld</members>
+		<members>HelloWorld</members>
+		<members>DownTrianglePattern</members>
         <members>HelloWorldTestClass</members>
         <members>LeftTrianglePascalPattern</members>
         <members>MyHelloWorld</members>
-	<members>PracticeDataTypesAndMethods</members>
+		<members>PracticeDataTypesAndMethods</members>
         <members>StudentRecord</members>
-	<members>ExpressionsAndOperators</members>
-	<members>ConditionalLoopsAndClasses</members>
+		<members>ExpressionsAndOperators</members>
+		<members>ConditionalLoopsAndClasses</members>
         <members>Example</members>
         <members>OverridingInApex</members>
-	<members>DiscountOnProduct</members>
+		<members>DiscountOnProduct</members>
         <members>InstanceOfKeyword</members>
         <members>SuperKeyword</members>
         <members>ThisKeyword</members>
-	<members>CountryStateAndDistrict</members>
+		<members>CountryStateAndDistrict</members>
         <members>InsertRecord</members>
-	<members>CountryInformation</members>
 		<members>CountryInformation</members>
-	<members>CountryStateAndDistrict</members>
+		<members>CountryInformation</members>
+		<members>CountryStateAndDistrict</members>
         <members>InsertRecord</members>
+		<members>DmlWorking</members>
+        <members>ExternalId</members>
+        <members>ParentChildSample</members>
         <name>ApexClass</name>
     </types>
 	<types>
@@ -33,12 +36,12 @@
     </types>
 	<types>
         <members>Dream_World__c.Dream_World_Title__c</members>
-	<members>Hello_World__c.Hello__c</members>
-	<members>Book__c</members>
+		<members>Hello_World__c.Hello__c</members>
+		<members>Book__c</members>
         <name>CustomField</name>
     </types>
     <types>
-	<members>Account</members>
+		<members>Account</members>
         <members>College__c</members>
         <members>Contact</members>
         <members>Employee__c</members>
@@ -46,29 +49,29 @@
         <members>Pan_Card__c</members>
         <members>StudentSubject__c</members>
         <members>Student__c</members>
-	<members>Subject__c</members>
+		<members>Subject__c</members>
         <members>Teacher__c</members>
         <members>Year_of_Class__c</members>
-	<members>Dream_World__c</members>
-	<members>Hello_World__c</members>
+		<members>Dream_World__c</members>
+		<members>Hello_World__c</members>
         <name>CustomObject</name>
     </types>
     <types>
-	<members>College__c</members>
+		<members>College__c</members>
         <members>Employee__c</members>
         <members>Pan_Card__c</members>
         <members>StudentSubject__c</members>
         <members>Student__c</members>
-	<members>Subject__c</members>
+		<members>Subject__c</members>
         <members>Teacher__c</members>
         <members>Year_of_Class__c</members>
-	<members>Dream_World__c</members>
-	<members>Hello_World__c</members>
-	<members>Book__c</members>
+		<members>Dream_World__c</members>
+		<members>Hello_World__c</members>
+		<members>Book__c</members>
         <name>CustomTab</name>
     </types>
     <types>
-	<members>Account-Account Layout</members>
+		<members>Account-Account Layout</members>
         <members>College__c-College Layout</members>
         <members>Contact-Contact Layout</members>
         <members>Employee__c-Employee Layout</members>
@@ -77,7 +80,7 @@
         <members>StudentSubject__c-StudentSubject Layout</members>
         <members>Student__c-Registrar Layout</members>
         <members>Student__c-Teacher Layout</members>
-	<members>Subject__c-Subject Layout</members>
+		<members>Subject__c-Subject Layout</members>
         <members>Teacher__c-Teacher Layout</members>
         <members>Year_of_Class__c-Year of Class Layout</members>
         <name>Layout</name>
