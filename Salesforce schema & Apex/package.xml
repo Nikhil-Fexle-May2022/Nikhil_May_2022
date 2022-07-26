@@ -31,10 +31,12 @@
 		<members>AggregateFunction</members>
         <members>CountryStateAndDistrictJSONGenerator</members>
         <members>MapOfCountryStateAndDistrictLevelTwo</members>
+        <members>AccountTriggerHelperClass</members>
         <name>ApexClass</name>
     </types>
 	<types>
         <members>HelloWorldTrigger</members>
+		<members>AccountTrigger</members>
         <name>ApexTrigger</name>
     </types>
 	<types>
@@ -52,6 +54,8 @@
         <members>State__c.Identification__c</members>
         <members>State__c.State_Code__c</members>
         <members>State__c.Total_Number_of_Districts__c</members>
+        <members>Account.AccountType__c</members>
+        <members>Account.EmailToCustomer__c</members>
         <name>CustomField</name>
     </types>
     <types>
